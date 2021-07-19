@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Screen_3</string>
+    <string name="female"><u>Female</u></string>
+    <string name="male"><u>Male</u></string>
+</resources>
